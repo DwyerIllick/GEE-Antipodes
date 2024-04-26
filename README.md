@@ -1,0 +1,1 @@
+This repository includes the full python code file for my Devs Digest project. This python program uses the Google Earth Engine API to collect and compile images from Google Earth of the exact opposite side of the earth. 
